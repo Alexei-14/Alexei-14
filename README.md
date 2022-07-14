@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hello, I'm Pradunya
-- I'm Interested in full stack Android Development
+- 🌚 I'm Interested in full stack Android Development
 - 🌱 I’m currently learning ... full stack web development
 - 👯 I’m also interested in learning new things
 - 💬 I'm looking for partime Jobs
