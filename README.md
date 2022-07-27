@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C9F1D&background=0E902900&lines=I+am+a+Full+Stack+Andriod+Developer;Frontend+React+Developer+;Loves+to+Contribute+for+open+source+Projects;Enthusiastic+to+Learn+new+things)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
 - 🔭 Hello, I'm Pradunya
 - 🌚 I'm Interested in full stack Android Development
 - 🌱 I’m currently learning ... full stack web development
