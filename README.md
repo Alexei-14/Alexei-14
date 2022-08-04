@@ -19,8 +19,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/pradunya-hazarika-a6469a215/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/happy_larka14?s=08"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
-
-
+</div>
+<div>
+  <a href="https://my-portfolio-pradunya.herokuapp.com/"><h1>My Portfolio</h1></a>
 </div>
 
 ---
