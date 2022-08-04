@@ -11,7 +11,7 @@
 - 💬 I'm looking for partime Jobs
 - 📫 How to reach me: pradunyahazarikawork@gmail.com
 - ⚡ Fun fact: I'm trying to master React native Enviroment
-- 🌍 <a href="https://twitter.com/happy_larka14?s=08">My Portfolio</a>
+- 🌍 <a href="https://my-portfolio-pradunya.herokuapp.com/">My Portfolio</a>
 ---
 
 ## Find me around the web 🌍
