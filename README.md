@@ -25,10 +25,15 @@
    
 ## My skills 🚀
    
-<img src='https://user-images.githubusercontent.com/40886278/175326431-d7b88997-8695-423f-891d-5eed05b715de.png' width='50' height='50' alt='html' />
-<img src='https://user-images.githubusercontent.com/40886278/175326996-1af0f139-fe9b-4f1d-b97c-395d715c92f2.png' width='50' height='50' alt='css' />
-<img src='https://user-images.githubusercontent.com/40886278/175330254-0c285bfb-0092-4acb-bd43-5829f27eec52.png' width='50' height='50' alt='node' />
-<img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' width='50' height='50' alt='python' />
-<img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg' width='50' height='50' alt='java' />
-   
+<div align="left">
+  <img src='https://user-images.githubusercontent.com/40886278/175326431-d7b88997-8695-423f-891d-5eed05b715de.png' width='50' height='50' alt='html' />
+  <img src='https://user-images.githubusercontent.com/40886278/175326996-1af0f139-fe9b-4f1d-b97c-395d715c92f2.png' width='50' height='50' alt='css' />
+  <img src='https://user-images.githubusercontent.com/40886278/175330254-0c285bfb-0092-4acb-bd43-5829f27eec52.png' width='50' height='50' alt='node' />
+  <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' width='50' height='50' alt='python' />
+  <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg' width='50' height='50' alt='java' />
+  <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' width='50' height='50' alt='javascript' />
+  <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg' width='50' height='50' alt='bootstrap' />
+  <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg' width='50' height='50' alt='php' />
+</div>
+
 ---
